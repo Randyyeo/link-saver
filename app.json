@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "link-saver",
+    "slug": "link-saver",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
